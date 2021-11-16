@@ -27,4 +27,6 @@
 
 ## Contributors
 
++ 김정연
++ 안서희 
 
