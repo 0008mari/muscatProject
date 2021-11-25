@@ -17,13 +17,13 @@
 
 * 공부 목적 
 * 다른 프로젝트에서 가져다 쓸 수 있는 기본을 만들어 보자
-* * login page
+  * login page
 
 ## spec
 
-1. nodejs + vuejs
-2. asp.net core + vuejs
-3. MSSQL
+* Frontend: Vue.js
+* Server side: .NET 5.0
+* DBM: MSSQL (아마도)
 
 ## Contributors
 
