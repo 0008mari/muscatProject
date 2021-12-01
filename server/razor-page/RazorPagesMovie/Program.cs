@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using RazorPagesMovie.Data;
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container...
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
