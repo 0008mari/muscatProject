@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/tween.js@16.3.4"></script>
+
+    <div id="baseexample">
+        <p>Scroll down the page</p>
+        <p v-pin="200">Stick me 200px from the top of the page</p>
+      </div>
+
+      <script>
+          Vue.directive('pin', {
+  bind: function (el, binding, vnode) {
+    el.style.position = 'fixed'
+    el.style.top = binding.value + 'px'
+  }
+})
+
+new Vue({
+  el: '#baseexample'
+})
+        </script>
+    
+</body>
+</html>

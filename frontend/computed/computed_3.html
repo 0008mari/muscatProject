@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <div id="demo">
+       {{fullName}}
+      </div>
+      <script>
+        var vm = new Vue({
+      el: '#demo',
+      data: {
+        firstName:'Foo',
+        lastName: 'Bar',
+      },
+      watch: {
+          fullName: function(val){
+              return this.firstName + ' ' + this.lastName
+          }
+      }
+    })
+        </script>
+</body>
+</html>
