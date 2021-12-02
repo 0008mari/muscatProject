@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <div id='example-3'>
+        <select v-model="selected" multiple>
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+          </select>
+          <br>
+          <span>Selected: {{ selected }}</span>
+    </div>
+      <script>
+new Vue({
+  el: '#example-3',
+  data: {
+    selected: ''
+  }
+})
+        </script>
+</body>
+</html>

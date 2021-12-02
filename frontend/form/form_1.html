@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <input v-model="message" placeholder="여기를 수정해보세요">
+    <p>메시지: {{ message }}</p>
+
+    <span>여러 줄을 가지는 메시지:</span>
+<p style="white-space: pre-line">{{ message }}</p>
+<br>
+<textarea v-model="message" placeholder="여러줄을 입력해보세요"></textarea>
+
+<input type="checkbox" id="checkbox" v-model="checked">
+<label for="checkbox">{{ checked }}</label>
+
+
+</body>
+</html>
