@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\00_ma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\00_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
