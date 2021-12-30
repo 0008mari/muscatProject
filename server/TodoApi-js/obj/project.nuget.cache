@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ihpcE6GeQLNk+M9j4/qW+JjAtj6Ia6oGbFObbuSgJgPmbjg4Db4CuNBN/FamQhNkcdvbJ1YE5uCWuBW8dugaNA==",
+  "dgSpecHash": "x2qUJV+67fpUv7jet9b4HlJnmj6AhA+1GxV/DGYOiP8NbCIUMict7rAvSj7YfrG5Xx6jztkMu2EQn07T/BhnIQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi-js\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\00_ma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -9723,11 +9723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi-js\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\TodoApi.csproj",
+      "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi-js\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\00_ma\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi\\obj\\",
+      "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\TodoApi-js\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\00_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -9795,7 +9795,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

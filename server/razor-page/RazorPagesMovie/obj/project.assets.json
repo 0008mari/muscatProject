@@ -9897,11 +9897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\00_ma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\obj\\",
+      "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\razor-page\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\00_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -9965,7 +9965,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
