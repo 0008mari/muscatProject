@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {}
+    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {
+    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+        "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
         "projectName": "LoginApi",
-        "projectPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+        "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
         "packagesPath": "C:\\Users\\00_ma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\obj\\",
+        "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\00_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[6.0.1, )"

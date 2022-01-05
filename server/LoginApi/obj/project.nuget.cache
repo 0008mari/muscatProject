@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DRR6bOERs2B6aEfVPBXJjH3NUQAlOtEg+2lKOBP8sXcX1Q5pmXiL739QHRnKglh5HMNx3XrAQ2NaPtp+MJDZ2A==",
+  "dgSpecHash": "Fk1ryJjHLHmIXXmOaS4Y9isWVCNxJx/FF4S+yszjRlsPD8mqXjTGh4TcptlDR47Kie4rYN6f3WHg5MRXwM6VAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+  "projectFilePath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\00_ma\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\00_ma\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
+    "C:\\Users\\00_ma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
@@ -24,6 +27,7 @@
     "C:\\Users\\00_ma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\00_ma\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
