@@ -28,3 +28,5 @@ C:\Users\00_ma\Documents\muscatProject\server\LoginApi\obj\Debug\net6.0\LoginApi
 C:\Users\00_ma\Documents\muscatProject\server\LoginApi\obj\Debug\net6.0\ref\LoginApi.dll
 C:\Users\00_ma\Documents\muscatProject\server\LoginApi\obj\Debug\net6.0\LoginApi.pdb
 C:\Users\00_ma\Documents\muscatProject\server\LoginApi\obj\Debug\net6.0\LoginApi.genruntimeconfig.cache
+C:\Users\00_ma\Documents\muscatProject\server\LoginApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\00_ma\Documents\muscatProject\server\LoginApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
