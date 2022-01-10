@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fk1ryJjHLHmIXXmOaS4Y9isWVCNxJx/FF4S+yszjRlsPD8mqXjTGh4TcptlDR47Kie4rYN6f3WHg5MRXwM6VAg==",
+  "dgSpecHash": "VqTe6yN50dbeJpX7Bppo4L/lNfRzZYqWq7/fijzM4sK3Xu9GTo7Sf96TSllpUW8Mmjouh3ldi7T44Pac2jAaLA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+  "projectFilePath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\00_ma\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\00_ma\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",

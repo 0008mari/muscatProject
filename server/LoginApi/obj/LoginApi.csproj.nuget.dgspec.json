@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {}
+    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {
+    "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+        "projectUniqueName": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
         "projectName": "LoginApi",
-        "projectPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
+        "projectPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\LoginApi.csproj",
         "packagesPath": "C:\\Users\\00_ma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\obj\\",
+        "outputPath": "C:\\Users\\00_ma\\Documents\\muscatProject\\server\\LoginApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\00_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
