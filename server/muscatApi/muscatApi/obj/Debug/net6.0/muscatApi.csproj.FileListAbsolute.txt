@@ -59,3 +59,8 @@ C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\obj\Debug\net6
 C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\obj\Debug\net6.0\ref\muscatApi.dll
 C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\obj\Debug\net6.0\muscatApi.pdb
 C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\obj\Debug\net6.0\muscatApi.genruntimeconfig.cache
+C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\obj\Debug\net6.0\muscatApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\00_ma\Documents\muscatProject\server\muscatApi\muscatApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

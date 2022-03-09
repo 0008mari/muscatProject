@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace muscatApi.Models
 {
@@ -11,6 +12,8 @@ namespace muscatApi.Models
     {
         [Key]
         public int Id { get; set; }
+
+        [JsonIgnore]
         public byte[] Password { get; set; } = null!;
 
         [ForeignKey(nameof(Id))]

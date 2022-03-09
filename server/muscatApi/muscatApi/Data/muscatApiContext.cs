@@ -11,7 +11,7 @@ namespace muscatApi.Models
         {
         }
 
-        public muscatApiContext(DbContextOptions<muscatApiContext> options)
+        public muscatApiContext(DbContextOptions options)
             : base(options)
         {
         }

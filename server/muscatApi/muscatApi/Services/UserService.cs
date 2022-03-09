@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace muscatApi.Services
 {
-    public class UserService
+    public class UserService : IUserService
     {
         private muscatApiContext _context;
 

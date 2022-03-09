@@ -9,9 +9,9 @@ namespace muscatApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        UserService _userService;
+        IUserService _userService;
 
-        public UserController(UserService userService)
+        public UserController(IUserService userService)
         {
             _userService = userService;
         }
@@ -37,12 +37,12 @@ namespace muscatApi.Controllers
             }
         }
 
-        // POST api/<UserController>
+        // POST <UserController>
         [HttpPost]
         public IActionResult Create(MyUser newUser)
         {
             var user = _userService.Create(newUser);
-            return CreatedAtAction(nameof(GetById), new { id = user!.id }, user);
+            return CreatedAtAction(nameof(GetById), new { Id = user!.Id }, user);
         }
 
         // PUT api/<UserController>/5
@@ -55,7 +55,7 @@ namespace muscatApi.Controllers
 
         // DELETE api/<UserController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
             var user = _userService.GetById(id);
 
