@@ -14,7 +14,7 @@ namespace muscatApi.Models
         public int Id { get; set; }
 
         [JsonIgnore]
-        public byte[] Password { get; set; } = null!;
+        public string Password { get; set; } = null!;
 
         [ForeignKey(nameof(Id))]
         [InverseProperty(nameof(MyUser.Pwd))]

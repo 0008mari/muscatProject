@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using muscatApi.Models;
 
@@ -11,9 +12,10 @@ using muscatApi.Models;
 namespace muscatApi.Migrations
 {
     [DbContext(typeof(muscatApiContext))]
-    partial class muscatApiContextModelSnapshot : ModelSnapshot
+    [Migration("20220309170926_ChangePwdTypeToString")]
+    partial class ChangePwdTypeToString
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
