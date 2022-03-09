@@ -1,4 +1,4 @@
-namespace muscatApi.Models
+﻿namespace muscatApi.Models
 {
     public class ErrorViewModel
     {
